@@ -1,4 +1,5 @@
 # 💈 Landing Page Barbearia
+<img width="1345" height="619" alt="barber" src="https://github.com/user-attachments/assets/e6e0e127-dcd0-4316-8814-bf3943d89904" />
 
 ## 📌 Sobre o Projeto
 Este projeto consiste no desenvolvimento de uma **Landing Page para uma barbearia**, criada com fins **educacionais e de estudo**, com foco em boas práticas de desenvolvimento web, estruturação de páginas de alta conversão e design responsivo.
@@ -54,18 +55,12 @@ A landing page foi desenvolvida seguindo o conceito de **Mobile First**, garanti
    git clone https://github.com/seu-usuario/landing-page-barbearia.git
 Abra o arquivo index.html em qualquer navegador.
 
-🌐 Deploy
+## 🌐 Deploy
 Projeto ainda sem deploy, utilizado apenas para fins de estudo.
 
-📈 Melhorias Futuras
+## 📈 Melhorias Futuras
 Integração com sistema de agendamento online
 
 Implementação de SEO básico
 
 Integração com Google Analytics / Pixe
-
-👤 Autor
-Projeto desenvolvido para fins de estudo e aprendizado em Desenvolvimento Web.
-
-Autor: Dionata Morais
-Área: Desenvolvimento Web / Sistemas
